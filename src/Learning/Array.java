@@ -6,11 +6,6 @@ class Student {
 }
 public class Array {
     public static void main(String[] args) {
-//        int[] numArray = {2, 4, 5, 6};
-//        numArray[3] = 7;
-//        System.out.println( numArray[3]);
-//
-//        int[] ArrayWithout = new int[10];
         Student s1 = new Student();
         s1.name = "James";
         s1.marks = 10;
