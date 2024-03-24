@@ -6,6 +6,18 @@ class Human {
     private int age;
     private  String name;
 
+    //Constructors
+    public Human () {
+         age = 0;
+         name = " ";
+     }
+
+     //Constructor Overloading parameterised construtor
+     public Human (int age, String name) {
+         this.age = age;
+         this.name = name;
+     }
+
     public int getAge () {
         return age;
     }
