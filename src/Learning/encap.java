@@ -35,6 +35,16 @@ class Human {
     }
 }
 
+//Camel Casing
+
+//Class Convention Must Start with a capital later
+
+//Variable and method - Small letter to start.
+
+// Constants - All caps.
+
+ 
+
 
 public class encap {
     public static void main(String[] args) {
